@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "896779455550",
+    "project_id": "reviveinventorysystem",
+    "storage_bucket": "reviveinventorysystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896779455550:android:1f21e2fac2ab10a35e956f",
+        "android_client_info": {
+          "package_name": "com.uw.reviveinventorysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896779455550-g1nj34ispg4gm2gk9kjl2f8mqdofrp0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCs_3fqiwJR6zvGNcF1QpvUU6U0g1M-4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896779455550-g1nj34ispg4gm2gk9kjl2f8mqdofrp0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896779455550-6colf4g8mlcrm21riho7fpl2mbu4g7mv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamworldwide.reviveinventorysystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
